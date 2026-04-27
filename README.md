@@ -42,6 +42,3 @@ Web ini dibuat untuk simulasi sistem kantin bernama **Gettin**, di mana user bis
 ### Profil
 
 ![Profil](screenshots/profile.png)
-
-Nama: [Nama Kamu]
-NIM: [NIM Kamu]
