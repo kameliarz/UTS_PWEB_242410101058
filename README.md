@@ -26,22 +26,27 @@ Web ini dibuat untuk simulasi sistem kantin bernama **Gettin**, di mana user bis
 ### Login
 
 ![Login](screenshots/login.png)
+![Mobile-Login](screenshots/mb-login.png)
 
 ### Dashboard
 
 ![Dashboard](screenshots/dashboard.png)
+![Mobile-Dashboard](screenshots/mb-dashboard.png)
 
 ### Menu
 
 ![Pengelolaan](screenshots/pengelolaan.png)
+![Mobile-Pengelolaan](screenshots/mb-pengelolaan.png)
 
 ### Info Kantin
 
 ![Info](screenshots/info.png)
+![Mobile-Info](screenshots/mb-info.png)
 
-### Profil
+### Profile
 
-![Profil](screenshots/profile.png)
+![Profile](screenshots/profile.png)
+![Mobile-Profile](screenshots/mb-profile.png)
 
 Nama: [Nama Kamu]
 NIM: [NIM Kamu]
