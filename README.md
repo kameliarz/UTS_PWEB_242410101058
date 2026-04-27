@@ -5,8 +5,6 @@
 Project ini adalah aplikasi web sederhana menggunakan Laravel dengan konsep MVC.
 Web ini dibuat untuk simulasi sistem kantin bernama **Gettin**, di mana user bisa login, melihat menu, dan melihat informasi kantin.
 
----
-
 ## Fitur
 
 * Login sederhana
@@ -16,16 +14,12 @@ Web ini dibuat untuk simulasi sistem kantin bernama **Gettin**, di mana user bis
 * Halaman info kantin
 * Navbar dan footer responsive
 
----
-
 ## Konsep yang dipakai
 
 * MVC (data dari controller ke view)
 * Blade template (`@extends`, `@section`, dll)
 * Session untuk simpan username
 * Looping data dengan `@foreach`
-
----
 
 ## Screenshot
 
