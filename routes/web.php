@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('login');
 });
+
 Route::post('/login', [PageController::class, 'prosesLogin']);
 
 Route::get('/dashboard', [PageController::class, 'dashboard']);
